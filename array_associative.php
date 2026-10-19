@@ -3,19 +3,13 @@
 
     // ini adalah indexed array
     $array_indexed = ["Zahra", "Altari", "Aditya", "Fahmi", "Mohammed","Farel"];
-
-
-
-
+    
     // ini adalah array 2 dimensi
     $array_2_dimensi = [
         ["Zamzam Aduhay", "25001", "Pendidikan Sistem dan Teknologi Informasi", "zamzam@upi.edu"],
         ["Farel Astagfirullah", "25002", "Sistem Telekomunikasi", "farel@yahoo.com"],
         ["Siti Lala Po", "25003", "Mekatronika dan Kecerdasan Buatan", "lala@gmail.com"]
     ];
-
-
-
 
     // ini adalah array associative
     $array_associative = [
@@ -25,7 +19,6 @@
         "email" => "zamzam@upi.edu",
         "gambar" => "zamzam.jpeg"
     ];
-
 
     $mahasiswa = [
         [
